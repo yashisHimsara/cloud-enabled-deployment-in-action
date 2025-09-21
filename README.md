@@ -49,6 +49,11 @@ This repository contains four projects:
 ## GCP Connect Video Link
  👉 https://drive.google.com/drive/folders/1zSsDQ4ncd_rAXqIdotLrR2B5BzZKCP3e?dmr=1&ec=wgc-drive-globalnav-goto
 
+## Student Details
+-Student Mail- yashissenavirathna@gmail.com
+-Student Id- 2301671062
+-Student Name- Yashis Himsara
+
 ## Build
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
