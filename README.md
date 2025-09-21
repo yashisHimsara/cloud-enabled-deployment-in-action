@@ -45,8 +45,12 @@ This repository contains four projects:
   - npm run dev (Vite dev server)
   - npm run build (TypeScript build + Vite build)
   - npm run preview (Preview built app)
+ 
+## GCP Connect Video Link
+ 👉 https://drive.google.com/drive/folders/1zSsDQ4ncd_rAXqIdotLrR2B5BzZKCP3e?dmr=1&ec=wgc-drive-globalnav-goto
 
 ## Build
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+  
