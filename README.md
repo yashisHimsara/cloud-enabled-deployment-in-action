@@ -1,5 +1,10 @@
 # Cloud Enabled Deployment In Action with AWS
 
+## Student Details
+- **Student Id: 2301671062**
+- **Student Name: Yashis Himsara**
+- **Student Mail: yashissenavirathna@gmail.com**
+
 This repository contains four projects:
 
 - course-service (Spring Boot + MySQL)
@@ -48,11 +53,6 @@ This repository contains four projects:
  
 ## GCP Connect Video Link
  👉 https://drive.google.com/drive/folders/1zSsDQ4ncd_rAXqIdotLrR2B5BzZKCP3e?dmr=1&ec=wgc-drive-globalnav-goto
-
-## Student Details
--Student Mail- yashissenavirathna@gmail.com
--Student Id- 2301671062
--Student Name- Yashis Himsara
 
 ## Build
 
