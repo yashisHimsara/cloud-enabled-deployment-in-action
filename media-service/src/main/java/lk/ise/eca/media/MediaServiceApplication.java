@@ -15,7 +15,6 @@ public class MediaServiceApplication implements WebMvcConfigurer {
     public static void main(String[] args) {
         SpringApplication.run(MediaServiceApplication.class, args);
     }
-
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
         registry.addResourceHandler("/files/**")

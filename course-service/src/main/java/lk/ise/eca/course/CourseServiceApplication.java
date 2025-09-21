@@ -12,7 +12,6 @@ public class CourseServiceApplication implements RepositoryRestConfigurer {
     public static void main(String[] args) {
         SpringApplication.run(CourseServiceApplication.class, args);
     }
-
     @Override
     public void configureRepositoryRestConfiguration(RepositoryRestConfiguration config, CorsRegistry cors) {
         config.exposeIdsFor(Course.class);
